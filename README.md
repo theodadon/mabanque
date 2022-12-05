@@ -1,6 +1,6 @@
 # mabanque
 
-This project is a dummy bank made in php and sql
+This project is a dummy bank made in php and sql with TailwindCSS
 
 We can:
 -make transfers between members of the bank
